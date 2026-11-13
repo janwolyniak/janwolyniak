@@ -25,7 +25,7 @@ I work on financial time-series forecasting with the Quantitative Finance Resear
 
 - **ML and statistics** — PyTorch, MLX, scikit-learn, XGBoost, NumPy, SciPy
 - **Data** — Python, SQL, pandas, PostgreSQL
-- **Engineering** — FastAPI, Docker, AWS, Azure, Git, GitHub Actions
+- **Engineering** — C++, FastAPI, Docker, AWS, Azure, Git, GitHub Actions
 
 ## Recognition
 
