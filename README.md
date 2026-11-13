@@ -18,7 +18,7 @@ I work on financial time-series forecasting with the Quantitative Finance Resear
 
 - Built sales forecasting models and workflow automations, and advised on automated arbitrage and market-making systems.
 - Built and deployed NLP and LLM systems, including tools for searching internal documents and data.
-— Built Python and PostgreSQL pipelines that processed over one million records for applied research.
+-  Built Python and PostgreSQL pipelines that processed over one million records for applied research.
 - Developed Python APIs for enterprise financial software and optimized PostgreSQL queries.
 
 ## Tech stack
