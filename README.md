@@ -10,7 +10,7 @@ I work on financial time-series forecasting with the Quantitative Finance Resear
 
 - **[Zero-shot financial forecasting](https://github.com/janwolyniak/Zeroshot_forecasting)** - Working paper and research code on how forecasts from pretrained models translate into trading outcomes on hourly Bitcoin data.
 - **COBRA-FTS** - Ongoing research on a state-space model that adapts to market regimes and produces probabilistic forecasts.
-- **TSFM Lab** - A toolkit for running reproducible local experiments with time-series foundation models.
+- **[TSFM Lab**](https://github.com/janwolyniak/TSFM-LAB) - A toolkit for running reproducible local experiments with time-series foundation models.
 - **[Warsaw Econometric Challenge 2026](https://github.com/janwolyniak/WEC_26)** - Team 4σ's modeling pipeline for estimating whether a football player will score later in a match.
 - **[AlphaDecompose](https://github.com/janwolyniak/AlphaDecompose)** - A Python toolkit for analyzing how much of a trading strategy's return can be explained by market and factor exposure.
 
