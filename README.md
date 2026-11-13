@@ -2,7 +2,7 @@
 
 **Machine learning researcher and software engineer**
 
-I work on financial time-series forecasting with the Quantitative Finance Research Group at the University of Warsaw, where I'm pursuing an MSc in Quantitative Finance. I'm interested in when a more accurate forecast leads to a better trading decision after transaction costs.
+I work on financial time-series forecasting with the Quantitative Finance Research Group at the University of Warsaw, where I'm pursuing an MSc in Quantitative Finance.
 
 [LinkedIn](https://www.linkedin.com/in/jan-wolyniak) · [Research group](https://qfrg.wne.uw.edu.pl/) · Warsaw, Poland
 
@@ -16,10 +16,10 @@ I work on financial time-series forecasting with the Quantitative Finance Resear
 
 ## Applied work
 
-- **Independent consulting** — Built sales forecasting models and workflow automations, and advised on automated market-making systems.
-- **AdNext Group** — Built and deployed NLP and LLM systems, including tools for searching internal documents and data.
-- **DELab, University of Warsaw** — Built Python and PostgreSQL pipelines that processed over one million records for applied research.
-- **Symfonia** — Developed Python APIs for enterprise financial software and optimized PostgreSQL queries.
+- Built sales forecasting models and workflow automations, and advised on automated arbitrage and market-making systems.
+- Built and deployed NLP and LLM systems, including tools for searching internal documents and data.
+— Built Python and PostgreSQL pipelines that processed over one million records for applied research.
+- Developed Python APIs for enterprise financial software and optimized PostgreSQL queries.
 
 ## Tech stack
 
